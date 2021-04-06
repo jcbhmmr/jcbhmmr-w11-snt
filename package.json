@@ -1,5 +1,5 @@
 {
-  "name": "matc-jsf-quiz-editor-w11-snt",
+  "name": "quiz-editor",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
