@@ -1,0 +1,11 @@
+{
+	"infiniteLoopProtection": false,
+	"hardReloadOnChange": true,
+	"view": "browser",
+	"container": {
+		"port": 4200,
+		"node": "14"
+	},
+	"disableLogging": true,
+	"startScript": "start:csb"
+}
